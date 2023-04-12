@@ -10,7 +10,7 @@ Software – Quartus prime
 
 ## Theory:
 
-Introduction
+### Introduction
 Logic gates are the basic building blocks of any digital system. Logic gates are electronic circuits having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as
 AND gate
 OR gate
@@ -64,6 +64,7 @@ Y= A⊕B
 5.Check all the gates following the same procedure.
 
 ## Program:
+```C
 /*
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by: Prajeeth K T
@@ -81,7 +82,7 @@ xnor(y5,a,b);
 nand(y6,a,b);
 nor(y7,a,b);
 endmodule
-
+```
 ## Logic symbol & Truthtable
 ![](/Truthtable.jpg)
 ## RTL realization
