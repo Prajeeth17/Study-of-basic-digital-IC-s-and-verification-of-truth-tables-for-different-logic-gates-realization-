@@ -83,7 +83,7 @@ nor(y7,a,b);
 endmodule
 
 ## Logic symbol & Truthtable
-![truthtable] (/Outputs/Truthtable.png)
+![] (./Truthtable.jpg)
 ## RTL realization
 
 ## Output:
