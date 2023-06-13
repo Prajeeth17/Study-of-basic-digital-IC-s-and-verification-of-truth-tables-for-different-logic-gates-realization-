@@ -90,7 +90,7 @@ endmodule
 ## Logic symbol & Truthtable
 ![](/Truthtable.jpg)
 ## RTL realization
-![](/RTLRealization.png)
+![image](https://github.com/Prajeeth17/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/120513885/bd176223-fd1d-4c09-befa-2cc2c2e9bad1)
 
 ## Output:
 
